@@ -141,22 +141,6 @@ flyhigh.createSpriteSheet = function() {
             },
         },
     });
-
-    //爆発
-    flyhigh.SpriteSheet.Explode = tm.asset.SpriteSheet({
-        image: "explode",
-        frame: {
-            width: 32,
-            height: 32,
-            count: 8,
-        },
-        animations: {
-            "explode": {
-                frames:[0,1,2,3,4,5,6,7],
-                frequency: 3,
-            },
-        },
-    });
 };
 
 })();
