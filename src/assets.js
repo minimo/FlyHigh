@@ -22,9 +22,11 @@ flyhigh.assets = {
     "bgm":      "assets/game_maoudamashii_4_field04.mp3",
 
     //Font
+/*
     "scoreboard": "font/scoreboard.ttf",
     "misaki":     "font/misaki_gothic.ttf",
     "azukiP": "font/azukiP.ttf",
+*/
 }
 
 })();
